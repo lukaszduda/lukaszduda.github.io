@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Developer Cache</title>
+ <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
+ <link href="http://0.0.0.0:4000/"/>
+ <updated>2025-10-29T13:01:22+00:00</updated>
+ <id>http://0.0.0.0:4000</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Hello world</title>
+   <link href="http://0.0.0.0:4000/2014/06/21/hello-world.html"/>
+   <updated>2014-06-21T00:00:00+00:00</updated>
+   <id>http://0.0.0.0:4000/2014/06/21/hello-world</id>
+   <content type="html">&lt;p&gt;This is a test post for my new blog. The blog is hosted on &lt;a href=&quot;http://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt; which means the source is available at &lt;a href=&quot;http://github.com/lukaszduda/lukaszduda.github.io&quot;&gt;github.com/lukaszduda/lukaszduda.github.io&lt;/a&gt;. Be nice. Give credit. Share, don’t steal :)&lt;/p&gt;
+
+&lt;p&gt;By the way, this blog is powered by &lt;a href=&quot;https://tinypress.co&quot;&gt;tinypress.co&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
